@@ -1,0 +1,3 @@
+pyfiglet
+python-vlc
+keyboard

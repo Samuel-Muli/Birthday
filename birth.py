@@ -18,9 +18,9 @@ except ImportError:
 # Configuration  ← edit here
 # ══════════════════════════════════════════════════════════════
 BIRTHDAY_NAME    = "SAMUEL"
-DATE_OF_BIRTH    = date(2000, 3, 29)           # 29-03-2000 → date(YYYY, MM, DD)
+DATE_OF_BIRTH    = date(2000, 3, 25)           # 29-03-2000 → date(YYYY, MM, DD)
 
-IMAGE_FILES      = ["aa.jpg", "bb.jpg", "cc.jpg"]
+IMAGE_FILES      = ["aa.jpg", "bb.jpg", "cc.jpg", "dd.jpg", "ee.jpg", "ff.jpg"]  # put your image filenames here (will be shuffled)
 VIDEO_FILE       = "Rayvanny_Happy Birthday.mp4"
 MUSIC_FILE       = "Rayvanny_Happy Birthday.mp3"
 COUNTDOWN_START  = 5

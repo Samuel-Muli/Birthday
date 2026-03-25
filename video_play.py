@@ -12,7 +12,7 @@ def play_playlist(videos):
         "--quiet",
         "--log-verbose=0",
         "--width=400",
-        "--height=2n50"
+        "--height=250"
     )
 
     player = instance.media_player_new()
