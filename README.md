@@ -49,7 +49,7 @@ Birthday/
 
 # 🖥️ Desktop Version (Python)
 
-> Source: `birth.py` · Build spec: `birth.spec` · [GitHub Repository](https://github.com/your-username/your-repo)
+> Source: `birth.py` · Build spec: `birth.spec` · [GitHub Repository](https://github.com/Samuel-Muli/Birthday)
 
 ## Prerequisites
 
